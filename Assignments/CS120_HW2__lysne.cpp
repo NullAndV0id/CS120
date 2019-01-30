@@ -16,6 +16,7 @@ int main() { //Function (1)
   int favorite ;
   int disliked ;
   int age      ;
+  int size     ;
   int mystic   ;
   // ============================ //
 
@@ -28,7 +29,10 @@ int main() { //Function (1)
   std::cout << "Enter your age in years. (no decimals):" << std::endl ;
   std::cin  >> age ;
 
-  mystic = ( ( favorite + disliked ) * age ) % 20 ;
+  std::cout << "Enter your shoe size. (no decimals):" << std::endl ;
+  std::cin  >> size ;
+
+  mystic = ( ( ( favorite + disliked ) * age ) + size ) % 20 ;
   std::cout << "Your lucky number for today is: " << mystic << std::endl ;
 
   std::cout << std::endl ;
@@ -54,7 +58,7 @@ int main() { //Function (1)
   }
 
   else if ( mystic <= 15 ) {
-    std::cout << "You will expirience something new today." << std::endl ;
+    std::cout << "You will experience something new today." << std::endl ;
   }
 
   else if (mystic <= 20) {
