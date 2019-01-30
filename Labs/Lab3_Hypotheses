@@ -1,0 +1,20 @@
+1 .) 0                                 // Evaluates false. (#1 ) Correct
+2 .) -7                                // Evaluates true.  (#2 ) Correct
+3 .) -1 + -2                           // Evaluates true.  (#3 ) Correct
+4 .) -7 + 7                            // Evaluates false. (#4 ) Correct
+5 .) 7 < 8                             // Evaluates true.  (#5 ) Correct
+6 .) 10 > 10                           // Evaluates false. (#6 ) Correct
+7 .) (7 < 10) || (7 > 10)              // Evaluates true.  (#7 ) Correct
+8 .) (7 < 10) && (7 > 10)              // Evaluates false. (#8 ) Correct
+9 .) -5 >= 5                           // Evaluates false. (#9 ) Correct
+10.) (7 > 10) || (-5 == 5)             // Evaluates false. (#10) Correct
+11.) !(6 == 7)                         // Evaluates true.  (#11) Correct
+12.) (10 != 11) && (7 > 8)             // Evaluates false. (#12) Correct
+13.) (7 == 6) || (7 == 7) || (7 == 8)  // Evaluates true.  (#13) Correct
+14.) (6 < (8 && 9))                    // Evaluates false. (#14) Correct
+15.) (1 == (6 < 8))                    // Evaluates true.  (#15) Correct
+16.) (0 == (0 || 1))                   // Evaluates false. (#16) Correct
+17.) 6 < (5 + 2)                       // Evaluates true.  (#17) Correct
+18.) 6 + (5 == 5)                      // Evaluates true.  (#18) Correct
+19.) (6 < 7) + (7 >= 5)                // Evaluates true.  (#19) Correct
+20.) (0 < 7) - (0 < 7)                 // Evaluates false. (#20) Correct
