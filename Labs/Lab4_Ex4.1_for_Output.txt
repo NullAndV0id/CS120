@@ -1,0 +1,6 @@
+
+The sum of the given numbers is: 400 //Test Case, input from user was 100 4s to make sure loop ran exactly 100 times.
+
+The sum of the given numbers is: 16 //Test Case, input from user was a few random numbers and 0 to make sure loop terminated at 0.
+
+The sum of the given numbers is: 0 //Test Case, input from user was 0, to make sure loop would terminate at first step.
