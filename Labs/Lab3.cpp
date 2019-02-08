@@ -11,7 +11,7 @@
 
 int main() {
 
-  bool exps [20];
+  bool exps [23];
   
   exps[0 ] = 0 ;
   exps[1 ] = -7 ;
@@ -33,8 +33,11 @@ int main() {
   exps[17] = 6 + (5 == 5) ;
   exps[18] = (6 < 7) + (7 >= 5) ;
   exps[19] = (0 < 7) - (0 < 7) ;
+  exps[20] = 0 || 1 && 1 ;
+  exps[21] = 0 && 0 || 1 ;
+  exps[22] = 1 && 0 || 1 && 1 ;
 
-  for (int i=0; i <= 19; i++) {
+  for (int i=0; i <= 22; i++) {
     std::cout << i + 1 << ".) " << exps[i] << std::endl;
   }
 

@@ -1,0 +1,55 @@
+
+Please enter your inital investment: $
+Your original investment: $1
+Bob's orginal investment: $1
+
+Your interest rate is: 7%
+Bob's interest rate is: 3%
+
+It took 52 years for Bob's investment to pass yours.
+Your amount: $4.64
+Bob's amount: $4.65089
+
+Please enter your inital investment: $
+Your original investment: $45
+Bob's orginal investment: $45
+
+Your interest rate is: 7%
+Bob's interest rate is: 3%
+
+It took 52 years for Bob's investment to pass yours.
+Your amount: $208.8
+Bob's amount: $209.29
+
+Please enter your inital investment: $
+Your original investment: $301
+Bob's orginal investment: $301
+
+Your interest rate is: 9%
+Bob's interest rate is: 3%
+
+It took 66 years for Bob's investment to pass yours.
+Your amount: $2088.94
+Bob's amount: $2117.5
+
+Please enter your inital investment: $
+Your original investment: $700
+Bob's orginal investment: $700
+
+Your interest rate is: 10%
+Bob's interest rate is: 3%
+
+It took 71 years for Bob's investment to pass yours.
+Your amount: $5670
+Bob's amount: $5708.75
+
+Please enter your inital investment: $
+Your original investment: $1200
+Bob's orginal investment: $1200
+
+Your interest rate is: 11%
+Bob's interest rate is: 3%
+
+It took 76 years for Bob's investment to pass yours.
+Your amount: $11232
+Bob's amount: $11345.2
