@@ -1,0 +1,32 @@
+
+You've currently guessed 0 times, please guess a number between 1 and 100: Your number is greater than the number we're thinking of.
+
+You've currently guessed 1 times, please guess a number between 1 and 100: Your number is greater than the number we're thinking of.
+
+You've currently guessed 2 times, please guess a number between 1 and 100: Your number is greater than the number we're thinking of.
+
+You've currently guessed 3 times, please guess a number between 1 and 100: Your number is less than the number we're thinking of.
+
+You've currently guessed 4 times, please guess a number between 1 and 100: Your number is less than the number we're thinking of.
+
+You've currently guessed 5 times, please guess a number between 1 and 100: Your number is less than the number we're thinking of.
+
+You've currently guessed 6 times, please guess a number between 1 and 100: Congratulations! It only took you 7 guesse(s) to guess our number.
+
+It's now round 1. What do you throw? (1 = Rock, 2 = Paper, 3 = Sissors): Congratulations! You won round 1.
+
+It's now round 2. What do you throw? (1 = Rock, 2 = Paper, 3 = Sissors): Oh no! Computer won round 2.
+
+It's now round 3. What do you throw? (1 = Rock, 2 = Paper, 3 = Sissors): Oh no! Computer won round 3.
+
+Calculate the sum of 38 and 45.
+Congratulations, you are correct!
+
+==============================================================
+Status Report:
+==============================================================
+The number guessing game took you 7 tries.
+You won 1 out of 3 rounds of rock-paper-scissors.
+You guessed the sum correctly in game 3.
+You won two out of three games!
+==============================================================
