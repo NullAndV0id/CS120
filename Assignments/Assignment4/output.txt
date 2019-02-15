@@ -1,0 +1,367 @@
+
+Welcome to the game of NIM! The rules are quite simple!
+The game revolves around a stack of objects.
+During their turn, a player will take 1 to 3 objects from the stack.
+The stack's size will reduce throughout the game, till it reaches 0
+The player who's move reduces the stack to 0 looses.
+Now, with the rules out of the way, please enjoy a game of NIM!
+
+| #################################### |
+36 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 2 objects from the stack.
+That move could've costed them the game!
+
+| ################################## |
+34 objects remain on the stack.
+Opponent removes 1 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ################################# |
+33 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 2 objects from the stack.
+That move could've costed them the game!
+
+| ############################### |
+31 objects remain on the stack.
+Opponent removes 2 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ############################# |
+29 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 2 objects from the stack.
+That move could've costed them the game!
+
+| ########################### |
+27 objects remain on the stack.
+Opponent removes 2 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ######################### |
+25 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 2 objects from the stack.
+That move could've costed them the game!
+
+| ####################### |
+23 objects remain on the stack.
+Opponent removes 2 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ##################### |
+21 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 2 objects from the stack.
+That move could've costed them the game!
+
+| ################### |
+19 objects remain on the stack.
+Opponent removes 2 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ################# |
+17 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 2 objects from the stack.
+That move could've costed them the game!
+
+| ############### |
+15 objects remain on the stack.
+Opponent removes 2 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ############# |
+13 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 2 objects from the stack.
+That move could've costed them the game!
+
+| ########### |
+11 objects remain on the stack.
+Opponent removes 2 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ######### |
+9 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 2 objects from the stack.
+This game is coming to a close in only a few more moves!
+
+| ####### |
+7 objects remain on the stack.
+Opponent removes 2 objects from the stack.
+This game is coming to a close in only a few more moves!
+
+| ##### |
+5 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 2 objects from the stack.
+The next move will determine the outcome of this game for sure!
+
+| ### |
+3 objects remain on the stack.
+Opponent removes 2 objects from the stack.
+The next player looses for sure! What an excellent move!
+
+| # |
+1 objects remain on the stack.
+Please enter how many objects you'd like to remove: Illegal move attempted, please enter a new move: Illegal move attempted, please enter a new move: Illegal move attempted, please enter a new move: Illegal move attempted, please enter a new move: Illegal move attempted, please enter a new move: Illegal move attempted, please enter a new move: You remove 1 objects from the stack.
+Oh no!
+
+Sorry, you lost! Better luck in the next game!
+You've won 0 game(s) so far.
+The AI has won 1 game(s) so far.
+Would you like to play again? (0 to exit, anything other number to continue.)
+
+| ################################### |
+35 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+That move could've costed them the game!
+
+| ################################## |
+34 objects remain on the stack.
+Opponent removes 1 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ################################# |
+33 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+That move could've costed them the game!
+
+| ################################ |
+32 objects remain on the stack.
+Opponent removes 3 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ############################# |
+29 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+That move could've costed them the game!
+
+| ############################ |
+28 objects remain on the stack.
+Opponent removes 3 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ######################### |
+25 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+That move could've costed them the game!
+
+| ######################## |
+24 objects remain on the stack.
+Opponent removes 3 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ##################### |
+21 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+That move could've costed them the game!
+
+| #################### |
+20 objects remain on the stack.
+Opponent removes 3 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ################# |
+17 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+That move could've costed them the game!
+
+| ################ |
+16 objects remain on the stack.
+Opponent removes 3 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ############# |
+13 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+That move could've costed them the game!
+
+| ############ |
+12 objects remain on the stack.
+Opponent removes 3 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ######### |
+9 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+That move could've costed them the game!
+
+| ######## |
+8 objects remain on the stack.
+Opponent removes 3 objects from the stack.
+This game is coming to a close in only a few more moves!
+
+| ##### |
+5 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+The next move will determine the outcome of this game for sure!
+
+| #### |
+4 objects remain on the stack.
+Opponent removes 3 objects from the stack.
+The next player looses for sure! What an excellent move!
+
+| # |
+1 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+Oh no!
+
+Sorry, you lost! Better luck in the next game!
+You've won 0 game(s) so far.
+The AI has won 2 game(s) so far.
+Would you like to play again? (0 to exit, anything other number to continue.)
+
+| ########################### |
+27 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+That move could've costed them the game!
+
+| ########################## |
+26 objects remain on the stack.
+Opponent removes 1 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ######################### |
+25 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+That move could've costed them the game!
+
+| ######################## |
+24 objects remain on the stack.
+Opponent removes 3 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ##################### |
+21 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+That move could've costed them the game!
+
+| #################### |
+20 objects remain on the stack.
+Opponent removes 3 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ################# |
+17 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+That move could've costed them the game!
+
+| ################ |
+16 objects remain on the stack.
+Opponent removes 3 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ############# |
+13 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+That move could've costed them the game!
+
+| ############ |
+12 objects remain on the stack.
+Opponent removes 3 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ######### |
+9 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+That move could've costed them the game!
+
+| ######## |
+8 objects remain on the stack.
+Opponent removes 3 objects from the stack.
+This game is coming to a close in only a few more moves!
+
+| ##### |
+5 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+The next move will determine the outcome of this game for sure!
+
+| #### |
+4 objects remain on the stack.
+Opponent removes 3 objects from the stack.
+The next player looses for sure! What an excellent move!
+
+| # |
+1 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+Oh no!
+
+Sorry, you lost! Better luck in the next game!
+You've won 0 game(s) so far.
+The AI has won 3 game(s) so far.
+Would you like to play again? (0 to exit, anything other number to continue.)
+
+| ############################ |
+28 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+That move could've costed them the game!
+
+| ########################### |
+27 objects remain on the stack.
+Opponent removes 2 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ######################### |
+25 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+That move could've costed them the game!
+
+| ######################## |
+24 objects remain on the stack.
+Opponent removes 3 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ##################### |
+21 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+That move could've costed them the game!
+
+| #################### |
+20 objects remain on the stack.
+Opponent removes 3 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ################# |
+17 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+That move could've costed them the game!
+
+| ################ |
+16 objects remain on the stack.
+Opponent removes 3 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ############# |
+13 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+That move could've costed them the game!
+
+| ############ |
+12 objects remain on the stack.
+Opponent removes 3 objects from the stack.
+The next player might face great difficulty for the rest of the game! Excellent move!
+
+| ######### |
+9 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+That move could've costed them the game!
+
+| ######## |
+8 objects remain on the stack.
+Opponent removes 3 objects from the stack.
+This game is coming to a close in only a few more moves!
+
+| ##### |
+5 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+The next move will determine the outcome of this game for sure!
+
+| #### |
+4 objects remain on the stack.
+Opponent removes 3 objects from the stack.
+The next player looses for sure! What an excellent move!
+
+| # |
+1 objects remain on the stack.
+Please enter how many objects you'd like to remove: You remove 1 objects from the stack.
+Oh no!
+
+Sorry, you lost! Better luck in the next game!
+You've won 0 game(s) so far.
+The AI has won 4 game(s) so far.
+Would you like to play again? (0 to exit, anything other number to continue.)
