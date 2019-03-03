@@ -1,0 +1,23 @@
+Creating a new character...
+
+Please enter a player name: (Input was "Lachlan")
+Lachlan's Health set to: 100
+Lachlan's Oxygen set to: 92
+Lachlan's Flashlight Battery set to: 100
+
+Creating a new character...
+
+Please enter a player name: (Input was "Chad")
+Chad's Health set to: 100
+Chad's Oxygen set to: 68
+Chad's Flashlight Battery set to: 100
+
+Player Name: Lachlan
+Lachlan's Health is currently: 100
+Lachlan's Oxygen is currently: 92
+Lachlan's Flashlight Battery is currently: 100
+
+Player Name: Chad
+Chad's Health is currently: 100
+Chad's Oxygen is currently: 68
+Chad's Flashlight Battery is currently: 100
