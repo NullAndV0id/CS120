@@ -1,0 +1,62 @@
+
+Welcome to the mini-game machine, please pick a game by entering a number.
+[0] To quit and receive your final score.
+[1] Random Number Guessing Game
+[2] Rock, Paper, Scissors
+[3] Sum Guessing Game
+
+Calculate the sum of 38 and 50.
+Congratulations, you are correct!
+
+Welcome to the mini-game machine, please pick a game by entering a number.
+[0] To quit and receive your final score.
+[1] Random Number Guessing Game
+[2] Rock, Paper, Scissors
+[3] Sum Guessing Game
+
+You've currently guessed 0 times, please guess a number between 1 and 100: 
+Your number is less than the number we're thinking of.
+
+You've currently guessed 1 times, please guess a number between 1 and 100: 
+Your number is less than the number we're thinking of.
+
+You've currently guessed 2 times, please guess a number between 1 and 100: 
+Your number is less than the number we're thinking of.
+
+You've currently guessed 3 times, please guess a number between 1 and 100: 
+Congratulations! It only took you 4 guess(es) to guess our number.
+
+Welcome to the mini-game machine, please pick a game by entering a number.
+[0] To quit and receive your final score.
+[1] Random Number Guessing Game
+[2] Rock, Paper, Scissors
+[3] Sum Guessing Game
+
+It's now round 1. What do you throw? (1 = Rock, 2 = Paper, 3 = Sissors): 
+Tie! Try again!
+
+It's now round 1. What do you throw? (1 = Rock, 2 = Paper, 3 = Sissors): 
+Oh no! Computer won round 1.
+
+It's now round 2. What do you throw? (1 = Rock, 2 = Paper, 3 = Sissors): 
+Tie! Try again!
+
+It's now round 2. What do you throw? (1 = Rock, 2 = Paper, 3 = Sissors): 
+Tie! Try again!
+
+It's now round 2. What do you throw? (1 = Rock, 2 = Paper, 3 = Sissors): 
+Congratulations! You won round 2.
+
+It's now round 3. What do you throw? (1 = Rock, 2 = Paper, 3 = Sissors): 
+Congratulations! You won round 3.
+
+Welcome to the mini-game machine, please pick a game by entering a number.
+[0] To quit and receive your final score.
+[1] Random Number Guessing Game
+[2] Rock, Paper, Scissors
+[3] Sum Guessing Game
+
+Status Report:
+You played 3 games.
+You won 3 games.
+You did excellent! Maybe we need some harder games for our champ?

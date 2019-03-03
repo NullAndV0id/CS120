@@ -1,0 +1,42 @@
+*I commented out the assignment header when I ran these, as I figured it was 
+ unimportant.
+
+Please enter the tempurature in Fahrenheit: 
+Please enter the wind speed in Miles per Hour: 
+
+Tempurature (F): 40
+Wind Speed (MPH): 5
+Wind Chill Factor (F): 36.4724
+Wind Chill Factor (C): 2.48467
+
+Please enter the tempurature in Fahrenheit:
+Please enter the wind speed in Miles per Hour: 
+
+Tempurature (F): 35
+Wind Speed (MPH): 10
+Wind Chill Factor (F): 27.4454
+Wind Chill Factor (C): -2.53032
+
+Please enter the tempurature in Fahrenheit: 
+Please enter the wind speed in Miles per Hour:
+
+Tempurature (F): 30
+Wind Speed (MPH): 15
+Wind Chill Factor (F): 19.0273
+Wind Chill Factor (C): -7.20705
+
+Please enter the tempurature in Fahrenheit: 
+Please enter the wind speed in Miles per Hour:
+
+Tempurature (F): 25
+Wind Speed (MPH): 20
+Wind Chill Factor (F): 10.8023
+Wind Chill Factor (C): -11.7765
+
+Please enter the tempurature in Fahrenheit: 
+Please enter the wind speed in Miles per Hour: 
+
+Tempurature (F): 20
+Wind Speed (MPH): 25
+Wind Chill Factor (F): 2.64612
+Wind Chill Factor (C): -16.3077
