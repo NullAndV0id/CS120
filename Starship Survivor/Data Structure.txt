@@ -1,0 +1,3 @@
+Elements of a text based video game:
+
+-> Text that reflects the change in variables.
