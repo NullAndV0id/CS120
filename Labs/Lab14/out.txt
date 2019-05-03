@@ -1,0 +1,21 @@
+Please enter a name for this node: Alice
+Please enter an Id for this node: 123
+Please enter a name for this node: Bob
+Please enter an Id for this node: 234
+Please enter a name for this node: Charlie
+Please enter an Id for this node: 678
+Please enter a name for this node: Dave
+Please enter an Id for this node: 789
+
+Name: Alice, Node ID: 123
+Name: Bob, Node ID: 234
+Name: Charlie, Node ID: 678
+Name: Dave, Node ID: 789
+
+Search result for ID 123: Alice
+Search result for ID 234: Bob
+Search result for ID 678: Charlie
+Search result for ID 789: Dave
+Search result for ID 124: 
+Search result for ID 235: 
+Search result for ID 679: 

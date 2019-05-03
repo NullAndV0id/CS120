@@ -1,3 +1,12 @@
+/////////////////////////
+//                     //
+// Name: Lachlan Lysne //
+// Assignment: Lab #14 //
+// Section #: 04       //
+// Date: 04/25/2019    //
+//                     //
+/////////////////////////
+
 struct node {
 
   std::string name;

@@ -25,8 +25,20 @@ int main( int argc , char *argv[] ) {
 
   }
 
+  std::cout << std::endl;
+
   llist.print();
-  std::cout << llist.search(1) << std::endl;
+
+  std::cout << std::endl;
+
+  std::cout << "Search result for ID 123: " << llist.search( 123 ) << std::endl;
+  std::cout << "Search result for ID 234: " << llist.search( 234 ) << std::endl;
+  std::cout << "Search result for ID 678: " << llist.search( 678 ) << std::endl;
+  std::cout << "Search result for ID 789: " << llist.search( 789 ) << std::endl;
+
+  std::cout << "Search result for ID 124: " << llist.search( 124 ) << std::endl;
+  std::cout << "Search result for ID 235: " << llist.search( 235 ) << std::endl;
+  std::cout << "Search result for ID 679: " << llist.search( 679 ) << std::endl;
 
   return 0;
 
